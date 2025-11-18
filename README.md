@@ -14,7 +14,7 @@ To run Enmar locally, follow these steps:
 
 1. **Clone the Repository:**
 
-*git clone https://github.com/Yoboinef-2000/enmar.git*
+*git clone [https://github.com/Yoboinef-2000/enmar.git](https://github.com/NeftalemMG/enmar.git)*
    
 *cd enmar*
 
